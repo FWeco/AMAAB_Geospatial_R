@@ -1,5 +1,5 @@
 # AMAAB_Geospatial_R
-Geospatial operations in R. 2025 AMAAB workshop. March 27th, 2024. Cacapon State Park, Berkeley Springs, WV.
+Geospatial operations in R. 2025 AMAAB workshop. March 27th, 2025. Cacapon State Park, Berkeley Springs, WV.
 
 This is the github repo for the AMAAB Workshop "Geospatial Analysis in R"
 
